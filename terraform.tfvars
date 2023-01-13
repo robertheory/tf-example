@@ -1,0 +1,1 @@
+content = "HELLO \n\tWORLD"
